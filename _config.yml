@@ -4,7 +4,7 @@
 title: Ben's Amazing Website
 
 # Short description of your site
-description: Proof that I'm virtually awesome
+description: Ben's Blog and Portfolio Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,10 +23,10 @@ navbar-links:
   Social:
     - LinkedIn: "https://www.linkedin.com/in/benjamin-whitman-946a0a192/"
   About Me: "aboutme"
+  Portfolio: "portfolio"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
