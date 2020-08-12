@@ -20,6 +20,8 @@ I was assigned to this project during my Lambda “Build Sprint,” a two-week t
 
 *Box office revenue predictor*
 
+![See You At The Movies! homepage](img/syatm.png)
+
 Movies are big business. Global box office was worth $136 billion in 2018, according to [Variety](https://variety.com/2019/film/news/box-office-record-disney-dominates-1203098075/). But it can be tough to predict what kind of return a movie will earn at the box office. Movie producers are faced with a difficult problem: Given a certain amount of money to fund new productions, how can you keep profits high and minimize box office duds? A predictive model based on machine learning principles seems like a good candidate here!
 
 # Data Storytelling Project
