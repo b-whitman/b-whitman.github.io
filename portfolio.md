@@ -26,4 +26,4 @@ Movies are big business. Global box office was worth $136 billion in 2018, accor
 
 The web is rife with fascinating datasets pieced together by enthusiasts, and IMDb is a prime example. I discovered that IMDb offers much of its data in .tsv format, so I decided to load that data into a Colab notebook and try to see if I could reach any interesting conclusions.
 
-My IMDb Data Storytelling Project ([Colab Notebook with comments](https://colab.research.google.com/drive/19IlEPOZdWzEWrtmkT_R51iJIsdGsRlZp))
+([Colab Notebook with comments](https://colab.research.google.com/drive/19IlEPOZdWzEWrtmkT_R51iJIsdGsRlZp))
