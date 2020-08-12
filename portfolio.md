@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Portfolio
-subtitle: Projects I've worked on.
+subtitle: Projects I've worked on. Click titles for full descriptive posts.
 ---
 
 # [Studium](https://b-whitman.github.io/studium/)
