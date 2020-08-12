@@ -8,7 +8,7 @@ https://see-you-at-the-movies.herokuapp.com
 
 My biggest aim for this project was to surface my predictive model as a sort of data toy, so an interested user could design their own movie and see how it would do at the box office. 
 
-#In Retrospect
+# In Retrospect
 
 In looking back at this project, I feel I learned a lot. I leveraged machine learning on a natural dataset. I engineered a functioning front-end to explore the data. And I felt confident enough to draw some tentative conclusions about patterns I spotted. Even so, hindsight has granted me some perspective on limitations to the project, and since completing it I have come up with some ideas of how I might approach it differently if I revisited it.
 
