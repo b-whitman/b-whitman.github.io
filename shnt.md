@@ -1,6 +1,6 @@
 # The Plan
 
-The team member in charge of engineering a machine learning solution for sentiment analysis wanted as many comments as she could get, to ensure the saltiness leaderboards were well-populated. I set out to learn to use the Python library “haxor” (GitHub link https://github.com/avinassh/haxor), a wrapper for accessing the Hacker News API. To source comments, I needed to iterate through every individual object uploaded to Hacker News, be they comments, stories, or jobs. For each item, the program would check if it was a comment; if so, it would be stored in a database.
+The team member in charge of engineering a machine learning solution for sentiment analysis wanted as many comments as she could get, to ensure the saltiness leaderboards were well-populated. I set out to learn to use the Python Hacker News API. To source comments, I needed to iterate through every individual object uploaded to Hacker News, be they comments, stories, or jobs. For each item, the program would check if it was a comment; if so, it would be stored in a database.
 
 # The Product
 
