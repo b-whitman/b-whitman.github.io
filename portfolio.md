@@ -4,7 +4,7 @@ title: My Portfolio
 subtitle: Projects I've worked on.
 ---
 
-# Studium
+# [Studium](https://b-whitman.github.io/studium/)
 
 *Distraction-free flashcard app*
 
