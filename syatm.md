@@ -4,7 +4,7 @@ I combined a dataset I’d already collected from IMDb, which contained all movi
 
 # The Product
 
-https://see-you-at-the-movies.herokuapp.com
+[See You At The Movies!](https://see-you-at-the-movies.herokuapp.com)
 
 My biggest aim for this project was to surface my predictive model as a sort of data toy, so an interested user could design their own movie and see how it would do at the box office. 
 
