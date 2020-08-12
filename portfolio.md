@@ -10,13 +10,13 @@ subtitle: Projects I've worked on.
 
 I was assigned to this project as during my Lambda “Labs” unit, a 16-week team project where we followed a product through two release cycles. Our product was Studium, a flashcard studying app intended to combine flexibility, usability and insight. In our Product Vision, we saw ourselves catering to users who wanted some of the customizability of Anki, but with a cleaner user experience inspired by some of Anki’s web-based competitors.
 
-# Saltiest Hacker News Trolls
+# [Saltiest Hacker News Trolls](https://b-whitman.github.io/shnt/)
 
 *Web comment sentiment analysis*
 
 I was assigned to this project during my Lambda “Build Sprint,” a two-week team project. Our task was to categorize comments from the website Hacker News by how “salty” they were. The particular task I owned on the data science team was to procure additional comment data via the Hacker News API.
 
-# See You At The Movies!
+# [See You At The Movies!](https://b-whitman.github.io/syatm/)
 
 *Box office revenue predictor*
 
